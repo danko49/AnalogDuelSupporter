@@ -34,3 +34,7 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+
+# Japanese Font Assets
+mplus-1p-medium\ SDF.asset
+mplus-2p-medium\ SDF.asset
